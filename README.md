@@ -2,6 +2,8 @@
 
 udev rules to fix USB-URG(URG-04LX) and USB-IMU(USB-9AXIS-00) on Raspbery Pi Mouse
 
+The URG will be mapped to `/dev/ttyUSB_URG` and the IMU will be mapped to `/dev/ttyUSB_IMU`.
+
 ## Usage
 
 ### Installation

@@ -20,7 +20,8 @@ make uninstall
 
 ### Special Thanks
 
-https://qiita.com/ospy/items/3e6ff429ba782624def1
+* https://qiita.com/ospy/items/3e6ff429ba782624def1
+* https://postd.cc/auto-documented-makefile/
 
 ## License
 

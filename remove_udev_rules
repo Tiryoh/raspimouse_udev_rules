@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -eux
+
+sudo rm /etc/udev/rules.d/99-raspimouse-usb-devices.rules

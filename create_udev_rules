@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -eux
+
+SRC_DIR=$(cd $(dirname $0); pwd)
+
+sudo cp $SRC_DIR/99-raspimouse-usb-devices.rules /etc/udev/rules.d/
